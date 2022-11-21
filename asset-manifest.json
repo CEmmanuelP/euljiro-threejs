@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/euljiro-threejs/static/css/main.19346906.css",
+    "main.js": "/euljiro-threejs/static/js/main.45dff2f6.js",
+    "static/js/845.c8b07503.chunk.js": "/euljiro-threejs/static/js/845.c8b07503.chunk.js",
+    "index.html": "/euljiro-threejs/index.html",
+    "main.19346906.css.map": "/euljiro-threejs/static/css/main.19346906.css.map",
+    "main.45dff2f6.js.map": "/euljiro-threejs/static/js/main.45dff2f6.js.map",
+    "845.c8b07503.chunk.js.map": "/euljiro-threejs/static/js/845.c8b07503.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19346906.css",
+    "static/js/main.45dff2f6.js"
+  ]
+}
